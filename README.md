@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from Saudi Arbia.
+I am a passionate self-taught programmer from Poland.
  - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](https://discord.gg/AvhzhDX)
 - 📫 Add Me On Discord? ! </> Madness#9966
