@@ -32,10 +32,8 @@ Here are some ideas to get you started:
 ### Glad to see you here! 🤩 &nbsp;
 
 I am a passionate self-taught programmer from Poland.
- - 🌱 I’m currently learning EJS
 - 💬 Ask me about anything [here](https://discord.gg/AvhzhDX)
 - 📫 Add Me On Discord? ! </> Madness#9966
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 **Languages and Tools:** &nbsp;
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
